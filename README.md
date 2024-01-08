@@ -1,7 +1,7 @@
 ![Header](https://github.com/Basicbay/Basicbay/assets/151770227/aa19b847-82a5-4c11-9551-56b8353b5050)
 
 ## 👽 About Me 
-🎓  I graduated with Bachelor of Science in Innovation Technology , Rangsit University
+🎓  I graduated with Bachelor of Science in Innovation Technology , Rangsit University \
 💻  Now I'm Frontend Developer.
 ✍  I am learning and practicing more!.
 🔗 [My Portfolio Website](https://nattagrit-portfolio.netlify.app/)
