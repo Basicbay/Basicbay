@@ -9,7 +9,9 @@
 - 🔥  I'm learning and practicing even more !
 
 
-## 🤝🏻 Connect With Me 
+## 🤝🏻 Connect With Me
+![linkedin](https://github.com/Basicbay/Basicbay/assets/151770227/962f541c-50c8-4abc-bfd7-d8b4079a0f02)
+
 
 
 ## 🌌 Techical Skills 
