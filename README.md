@@ -1,7 +1,4 @@
-### Hi there 👋 I'm Nattagrit
-![Header](https://github.com/Basicbay/Basicbay/assets/151770227/8449b621-7a0c-489e-a459-365ec3de3fbe)
-
-
+![Header](https://github.com/Basicbay/Basicbay/assets/151770227/b279aed7-c092-4a76-912a-e37277344e5a)
 
 **Basicbay/Basicbay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
