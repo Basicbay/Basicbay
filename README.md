@@ -10,8 +10,8 @@
 ## 🫱🏻‍🫲🏾 Connect With Me
 
 - [My Portfolio Website](https://nattagrit-portfolio.netlify.app/)
-- [LinkedIn](https://nattagrit-portfolio.netlify.app/)
-- Keepatbayy@Gmail.com
+- [LinkedIn/Nattagrit](https://nattagrit-portfolio.netlify.app/)
+- Keepatbayy@gmail.com
 
 ## 🕹️ Technical Skills
 
