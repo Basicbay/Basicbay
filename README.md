@@ -10,9 +10,8 @@
 
 
 ## 🤝🏻 Connect With Me
-![linkedin](https://github.com/Basicbay/Basicbay/assets/151770227/962f541c-50c8-4abc-bfd7-d8b4079a0f02)
-
-
+![linkedin](https://github.com/Basicbay/Basicbay/assets/151770227/962f541c-50c8-4abc-bfd7-d8b4079a0f02) [My Portfolio Website](https://nattagrit-portfolio.netlify.app/)
+![gmail](https://github.com/Basicbay/Basicbay/assets/151770227/22b2c220-f961-4ae1-b144-75ce26f50666) [My Portfolio Website](https://nattagrit-portfolio.netlify.app/)
 
 ## 🌌 Techical Skills 
 
