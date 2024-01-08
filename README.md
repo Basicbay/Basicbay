@@ -2,7 +2,7 @@
 
 ## 👽 About Me 
 
-🌐 [My Portfolio Website](https://nattagrit-portfolio.netlify.app/) 
+- 🌐 [My Portfolio Website](https://nattagrit-portfolio.netlify.app/) 
 
 - 🧑🏻  My Nickname is Bay \
 - 💻  I am a Frontend Developer \
