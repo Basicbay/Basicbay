@@ -10,10 +10,6 @@
 - 🔥  I'm learning and practicing even more !
 
 
-## 🤝🏻 Connect With Me
-![linkedin](https://github.com/Basicbay/Basicbay/assets/151770227/962f541c-50c8-4abc-bfd7-d8b4079a0f02) [Linked](https://www.linkedin.com/in/nattagrit-ridtikhab-83894b2a0/) \
-
-![gmail](https://github.com/Basicbay/Basicbay/assets/151770227/22b2c220-f961-4ae1-b144-75ce26f50666) [Mail](keepatbayy@gmail.com)
 
 ## 🌌 Techical Skills 
 
