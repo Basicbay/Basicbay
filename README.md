@@ -3,7 +3,6 @@
 ## 👽 About Me 
 💻  Now I'm Frontend Developer \
 🎓  Bachelor of Science in Innovation Technology , Rangsit University \
-✍  I am learning and practicing more!. \
 🔗 [My Portfolio Website](https://nattagrit-portfolio.netlify.app/)
 
 ## 🤝🏻 Connect With Me 
