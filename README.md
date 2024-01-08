@@ -1,7 +1,7 @@
 ![Header](https://github.com/Basicbay/Basicbay/assets/151770227/aa19b847-82a5-4c11-9551-56b8353b5050)
 
 ## About Me
-![Portfolio](https://nattagrit-portfolio.netlify.app/style=for-the-badge&logo=html5&logoColor=white)
+https://nattagrit-portfolio.netlify.app/
 
 ## Connect With Me
 
