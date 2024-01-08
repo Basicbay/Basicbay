@@ -1,14 +1,14 @@
 ![Header](https://github.com/Basicbay/Basicbay/assets/151770227/aa19b847-82a5-4c11-9551-56b8353b5050)
 
-## 🙋🏻‍♂️ About Me 
+##🙋🏻‍♂️ About Me 
 [My Portfolio Website](https://patteera-mu-portfolio.netlify.app/)
 
-## Connect With Me 🤝🏻
+##🤝🏻 Connect With Me 
 
 ![Linked](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-## Techical Skills 👨🏻‍💻
+##👨🏻‍💻 Techical Skills 
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
