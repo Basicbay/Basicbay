@@ -8,7 +8,7 @@
 - 💻  I am a Frontend Developer
 - 🎓  Bachelor of Science in Innovation Technology , Rangsit University
 - 🔥  I'm learning and practicing even more !
-\
+
 \
 \
 
