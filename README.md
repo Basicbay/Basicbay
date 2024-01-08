@@ -11,6 +11,7 @@
 
 - [My Portfolio Website](https://nattagrit-portfolio.netlify.app/)
 - [LinkedIn](https://nattagrit-portfolio.netlify.app/)
+- [Keepatbayy@Gmail.com]
 
 ## 🕹️ Technical Skills
 
