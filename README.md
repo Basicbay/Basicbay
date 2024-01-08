@@ -9,7 +9,7 @@
 - 🎓  Bachelor of Science in Innovation Technology , Rangsit University
 - 🔥  I'm learning and practicing even more !
 
-
+\\\
 
 ## 🌌 Techical Skills 
 
