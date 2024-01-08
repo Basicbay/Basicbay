@@ -1,5 +1,8 @@
 ![Header](https://github.com/Basicbay/Basicbay/assets/151770227/aa19b847-82a5-4c11-9551-56b8353b5050)
 
+## About Me
+![Linked](https://nattagrit-portfolio.netlify.app/)
+
 ## Connect With Me
 
 ![Linked](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
