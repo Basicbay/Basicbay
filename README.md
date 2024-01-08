@@ -10,7 +10,7 @@
 
 
 ## 🤝🏻 Connect With Me 
-![linkedin](https://github.com/Basicbay/Basicbay/assets/151770227/56642f69-7f26-4901-acf3-c936d634980d)
+![linkedin](https://github.com/Basicbay/Basicbay/assets/151770227/56642f69-7f26-4901-acf3-c936d634980d) [Linked](https://www.linkedin.com/in/nattagrit-ridtikhab-83894b2a0/)
 
 ![Linked](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
