@@ -8,9 +8,11 @@
 - 💻  I am a Frontend Developer
 - 🎓  Bachelor of Science in Innovation Technology , Rangsit University
 - 🔥  I'm learning and practicing even more !
+\
+\
+\
 
-\\\
-
+\
 ## 🌌 Techical Skills 
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
