@@ -1,6 +1,6 @@
-![image](https://github.com/Basicbay/Basicbay/assets/151770227/38c51565-47e6-40d5-9923-73c7bc794bce)![Header](https://github.com/Basicbay/Basicbay/assets/151770227/483d6031-e251-4ffa-90e7-7b38f9079154)
+![image](https://github.com/Basicbay/Basicbay/assets/151770227/38c51565-47e6-40d5-9923-73c7bc794bce)
 
-**Connect With Me**
+**Connect With Me
 
 ![Linked](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
