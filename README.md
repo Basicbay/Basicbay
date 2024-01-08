@@ -10,8 +10,8 @@
 
 ## 🫱🏻‍🫲🏾 Connect With Me
 
-- 🌐 [My Portfolio Website](https://nattagrit-portfolio.netlify.app/)
-- 
+- [My Portfolio Website](https://nattagrit-portfolio.netlify.app/)
+- [LinkedIn](https://nattagrit-portfolio.netlify.app/)
 
 ## 🕹️ Technical Skills
 
