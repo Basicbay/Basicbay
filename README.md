@@ -2,10 +2,10 @@
 
 ## 👽 About Me 
 
-🔗 [My Portfolio Website](https://nattagrit-portfolio.netlify.app/) \
+🔗 [My Portfolio Website](https://nattagrit-portfolio.netlify.app/) 
 
 💻  Now I'm Frontend Developer \
-🎓  Bachelor of Science in Innovation Technology , Rangsit University \
+🎓  Bachelor of Science in Innovation Technology , Rangsit University 
 
 
 ## 🤝🏻 Connect With Me 
