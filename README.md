@@ -1,6 +1,6 @@
 ![Header](https://github.com/Basicbay/Basicbay/assets/151770227/aa19b847-82a5-4c11-9551-56b8353b5050)
 
-## 🙋🏻‍♂️ About Me 
+## 👽 About Me 
 [My Portfolio Website](https://patteera-mu-portfolio.netlify.app/)
 
 ## 🤝🏻 Connect With Me 
