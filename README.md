@@ -4,10 +4,10 @@
 
 🌐 [My Portfolio Website](https://nattagrit-portfolio.netlify.app/) 
 
-🧑🏻  My Nickname is Bay \
-💻  I am a Frontend Developer \
-🎓  Bachelor of Science in Innovation Technology , Rangsit University \
-🔥  I'm learning and practicing even more!
+- 🧑🏻  My Nickname is Bay \
+- 💻  I am a Frontend Developer \
+- 🎓  Bachelor of Science in Innovation Technology , Rangsit University \
+- 🔥  I'm learning and practicing even more!
 
 
 ## 🤝🏻 Connect With Me 
