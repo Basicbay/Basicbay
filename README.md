@@ -11,7 +11,6 @@
 \
 \
 \
-
 \
 ## 🌌 Techical Skills 
 
