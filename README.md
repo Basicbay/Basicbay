@@ -8,7 +8,9 @@
 - 🔥  I'm learning and practicing even more !
 
 ## 🤝🏻 Connect With Me
-
+<a href="https://alpaycelik.dev" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white&bgColor=" alt="AlpayC" />
+ </a>
 - ![web](https://github.com/Basicbay/Basicbay/assets/151770227/f8a32c36-5356-480f-b4df-e071a113c644)   [My Portfolio Website](https://nattagrit-portfolio.netlify.app/)
 - ![linkedin](https://github.com/Basicbay/Basicbay/assets/151770227/0f10eb97-640d-4088-a2da-f9b0b53a077a)   [Nattagrit Ridtikhab](https://nattagrit-portfolio.netlify.app/)
 - ![mail](https://github.com/Basicbay/Basicbay/assets/151770227/1458f989-5599-4bef-9257-5326261d92e9)   Keepatbayy@gmail.com
