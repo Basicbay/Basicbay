@@ -1,4 +1,4 @@
-![Header_github](https://github.com/Basicbay/Basicbay/assets/151770227/ce31665f-62ee-44c6-a017-6dc7f506966c)
+
 
 ## 👽 About Me
 
