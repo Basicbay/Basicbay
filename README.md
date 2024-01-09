@@ -1,19 +1,19 @@
 ![Header](https://github.com/Basicbay/Basicbay/assets/151770227/aa19b847-82a5-4c11-9551-56b8353b5050)
 
-## About Me 👽
+## 👽 About Me
 
 - 🧑🏻  My Nickname is Bay
 - 💻  I am a `Frontend Developer`
 - 🎓  Bachelor of Science in Innovation Technology , Rangsit University
 - 🔥  I'm learning and practicing even more !
 
-## Connect With Me 🤝🏻
+## 🤝🏻 Connect With Me
 
 - ![web](https://github.com/Basicbay/Basicbay/assets/151770227/f8a32c36-5356-480f-b4df-e071a113c644)   [My Portfolio Website](https://nattagrit-portfolio.netlify.app/)
 - ![linkedin](https://github.com/Basicbay/Basicbay/assets/151770227/0f10eb97-640d-4088-a2da-f9b0b53a077a)   [Nattagrit Ridtikhab](https://www.linkedin.com/in/nattagrit-ridtikhab-83894b2a0/)
 - ![mail](https://github.com/Basicbay/Basicbay/assets/151770227/1458f989-5599-4bef-9257-5326261d92e9)   Keepatbayy@gmail.com
   
-## Technical Skills 🕹️
+## 🕹️ Technical Skills
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=F0DB4F&logo=javascript&logoColor=black)
