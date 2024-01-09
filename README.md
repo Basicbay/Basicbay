@@ -3,15 +3,15 @@
 ## 👽 About Me 
 
 - 🧑🏻  My Nickname is Bay
-- 💻  I am a ´Frontend Developer´
+- 💻  I am a `Frontend Developer`
 - 🎓  Bachelor of Science in Innovation Technology , Rangsit University
 - 🔥  I'm learning and practicing even more !
 
-## 🫱🏻‍🫲🏾 Connect With Me
+## 🤝🏻 Connect With Me
 
 - [My Portfolio Website](https://nattagrit-portfolio.netlify.app/)
-- [LinkedIn / Nattagrit](https://nattagrit-portfolio.netlify.app/)
-- Keepatbayy@gmail.com
+- ![linkedin](https://github.com/Basicbay/Basicbay/assets/151770227/6ccdd541-1501-4af2-b0e7-32ec5598f67f)  [LinkedIn / Nattagrit](https://nattagrit-portfolio.netlify.app/)
+- ![gmail](https://github.com/Basicbay/Basicbay/assets/151770227/3a5636e2-b22e-4e7b-8099-fc9d066917f5)  Keepatbayy@gmail.com
 
 ## 🕹️ Technical Skills
 
