@@ -6,13 +6,8 @@
 - 💻  I am a `Frontend Developer`
 - 🎓  Bachelor of Science in Innovation Technology , Rangsit University
 - 🔥  I'm learning and practicing even more !
+- More About Me in... ![web](https://github.com/Basicbay/Basicbay/assets/151770227/f8a32c36-5356-480f-b4df-e071a113c644)   [My Portfolio Website](https://nattagrit-portfolio.netlify.app/)
 
-## 🤝🏻 Connect With Me
-
-- ![web](https://github.com/Basicbay/Basicbay/assets/151770227/f8a32c36-5356-480f-b4df-e071a113c644)   [My Portfolio Website](https://nattagrit-portfolio.netlify.app/)
-- ![linkedin](https://github.com/Basicbay/Basicbay/assets/151770227/0f10eb97-640d-4088-a2da-f9b0b53a077a)   [Nattagrit Ridtikhab](https://www.linkedin.com/in/nattagrit-ridtikhab-83894b2a0/)
-- ![mail](https://github.com/Basicbay/Basicbay/assets/151770227/1458f989-5599-4bef-9257-5326261d92e9)   Keepatbayy@gmail.com
-  
 ## 🕹️ Technical Skills
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
