@@ -11,7 +11,7 @@
 
 - [My Portfolio Website](https://nattagrit-portfolio.netlify.app/)
 - ![linkedin](https://github.com/Basicbay/Basicbay/assets/151770227/0f10eb97-640d-4088-a2da-f9b0b53a077a)  [Nattagrit Ridtikhab](https://nattagrit-portfolio.netlify.app/)
-- ![gmail](https://github.com/Basicbay/Basicbay/assets/151770227/3a5636e2-b22e-4e7b-8099-fc9d066917f5)  Keepatbayy@gmail.com
+- ![gmail](https://github.com/Basicbay/Basicbay/assets/151770227/b72b3025-9865-4f6f-9c5a-91a9220b651f)  ![gmail](https://github.com/Basicbay/Basicbay/assets/151770227/3a5636e2-b22e-4e7b-8099-fc9d066917f5)  Keepatbayy@gmail.com
 
 ## 🕹️ Technical Skills
 
