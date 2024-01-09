@@ -12,9 +12,7 @@
 - ![web](https://github.com/Basicbay/Basicbay/assets/151770227/f8a32c36-5356-480f-b4df-e071a113c644)   [My Portfolio Website](https://nattagrit-portfolio.netlify.app/)
 - ![linkedin](https://github.com/Basicbay/Basicbay/assets/151770227/0f10eb97-640d-4088-a2da-f9b0b53a077a)   [Nattagrit Ridtikhab](https://nattagrit-portfolio.netlify.app/)
 - ![mail](https://github.com/Basicbay/Basicbay/assets/151770227/1458f989-5599-4bef-9257-5326261d92e9)   Keepatbayy@gmail.com
-
-![programming](https://github.com/Basicbay/Basicbay/assets/151770227/df0886b3-939e-407b-ba84-0d6ab1e3a34f)
-
+<br/>
 ## 🕹️ Technical Skills
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
