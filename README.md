@@ -1,5 +1,5 @@
 ## Hi there 👋
-* 🧑🏻 My nickname is Bay. I am a `Developer`
+* 🧑🏻 I’m Bay, a `Developer` With 1 years of experience.
 * 🔥 I'm learning and practicing even more !
 * 🎓 Bachelor of Science in Innovation Technology
 * 📄 Please take a look at [my personal portfolio website](https://nattagrit-portfolio.netlify.app/) 
