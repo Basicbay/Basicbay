@@ -6,7 +6,7 @@
 for more details about me.
 
 ## Tech stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,figma)](https://skillicons.dev)
 
 
 
