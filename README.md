@@ -1,4 +1,4 @@
-## Hi there
+## Hi there 👋
 * 🧑🏻 My nickname is Bay. I am a `Developer`
 * 🔥 I'm learning and practicing even more !
 * 🎓 Bachelor of Science in Innovation Technology
