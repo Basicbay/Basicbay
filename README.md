@@ -1,5 +1,5 @@
 ## Hi there 👋
-* 🧑🏻 I’m Bay, a `frontend developer` with 1 year of experience.
+* 🧑🏻 I’m Bay, a `frontend developer`
 * 🔥 I'm learning and practicing even more !
 * 🎓 Bachelor of Science in Innovation Technology
 * 📄 Please take a look at [my personal portfolio website](https://nattagrit-portfolio.netlify.app/) 
