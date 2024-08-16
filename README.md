@@ -4,7 +4,7 @@
 * 🎓 Bachelor of Science in Innovation Technology
 
 ## Tech stack
-[![My Skills](https://skillicons.dev/icons?i=mongodb,expressjs,nodejs,nextjs,ts,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,expressjs,nodejs,nextjs,ts,js,html,css,tailwindcss)](https://skillicons.dev)
 
 
 
