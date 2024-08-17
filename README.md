@@ -1,5 +1,4 @@
-## Hi there 👋
-* 🧑🏻 I’m Bay, a `Frontend Developer`
+## Hi there  I’m Bay 👨🏻‍💻
 * 🔥 I'm learning and practicing even more !
 * 🎓 Bachelor of Science in Innovation Technology
 
