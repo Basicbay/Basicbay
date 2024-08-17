@@ -1,6 +1,6 @@
 ## Hi there,  I’m Bay 👨🏻‍💻
 * 🎓 Bachelor of Science in Innovation Technology
-* 🌱 I'm currently learning.. Node.js and Golang
+* 🌱 I'm currently learning .. Node.js and Golang
 * 🔥 I'm learning and practicing even more !
 
 ## Tech stack
