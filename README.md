@@ -1,5 +1,5 @@
 ## Hi there,  I’m Bay 👨🏻‍💻
-* 🌱 I'm currently learning ... Node.js
+* 🌱 I'm currently learning ... Node.js and Golang
 * 🔥 I'm learning and practicing even more !
 * 🎓 Bachelor of Science in Innovation Technology
 
