@@ -1,4 +1,4 @@
-## Hi there  I’m Bay 👨🏻‍💻
+## Hi there,  I’m Bay 👨🏻‍💻
 * 🌱 I'm currently learning ... Node.js
 * 🔥 I'm learning and practicing even more !
 * 🎓 Bachelor of Science in Innovation Technology
